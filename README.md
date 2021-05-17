@@ -3,8 +3,11 @@
 
 <p align="center">
 - 🌱 I’m currently Exploring backend technologies
+- <br>
 - 🥅 2021 Goals: Contribute more to Open Source projects
+- <br>
 - 💻 My Website : https://vrajp3301.github.io/Portfolio/
+- <br>
 </p>
 
 
