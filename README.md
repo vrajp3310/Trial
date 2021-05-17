@@ -23,6 +23,8 @@
   <code><img title="MySQL" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/mysql.svg"></code>
 </p>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
