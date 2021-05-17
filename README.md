@@ -25,6 +25,6 @@
 
 <p align="center">
   <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=vrajp3301&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  
-  <img align="center" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=vrajp3301&theme=react&border=61dafb&hide_border=true" alt="vrajp3301" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+   <img align="center" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=vrajp3301&theme=react&border=61dafb&hide_border=true" alt="vrajp3301" />
 </p>
