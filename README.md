@@ -45,6 +45,6 @@
 <h2 align="center">Contact Me</h2>
 <div align="center">
 
-  [![Linkedin Badge](https://img.shields.io/badge/-vrajpatel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vraj-patel/)](https://www.linkedin.com/in/sy-rashid/)
+  [![Linkedin Badge](https://img.shields.io/badge/-vrajpatel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vraj-patel/)](https://www.linkedin.com/in/vraj-patel/)
   [![Gmail Badge](https://img.shields.io/badge/-vrajp3301@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vrajp3301@gmail.com)](mailto:vrajp3301@gmail.com)
 </div>
