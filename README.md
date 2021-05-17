@@ -25,7 +25,6 @@
 
 <p align="center">
   <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=vrajp3301&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?     username=vrajp3301&hide=c%23,powershell,java&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-
+  
   <img align="center" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=vrajp3301&theme=react&border=61dafb&hide_border=true" alt="vrajp3301" />
 </p>
