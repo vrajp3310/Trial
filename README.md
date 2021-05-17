@@ -40,11 +40,14 @@
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrajp3301&hide=c%23,powershell,java&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-  
-### Contact me
-
-[![Linkedin Badge](https://img.shields.io/badge/-vrajpatel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vraj-patel/)](https://www.linkedin.com/in/vraj-patel/)
-
-[![Gmail Badge](https://img.shields.io/badge/-vrajp3301@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vrajp3301@gmail.com)](mailto:vrajp3301@gmail.com)
   <br>
+</p>
+<h2 align="center">Contact Me</h2>
+<p align="center">
+  <div align="left">
+    [![Linkedin Badge](https://img.shields.io/badge/-vrajpatel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vraj-patel/)](https://www.linkedin.com/in/vraj-patel/)
+    </div>
+  <div align="right">
+  [![Gmail Badge](https://img.shields.io/badge/-vrajp3301@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vrajp3301@gmail.com)](mailto:vrajp3301@gmail.com)
+  </div>
 </p>
