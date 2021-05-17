@@ -1,1 +1,1 @@
-![Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️](https://github.com/vrajp3310/Trial/blob/main/assets/output.gif | width=200)
+![Hi, I'm Vraj 👋 I'm a Student I've teaching myself how to code!!](https://github.com/vrajp3310/Trial/blob/main/assets/output.gif)
