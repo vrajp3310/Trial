@@ -23,6 +23,7 @@
   <code><img title="MySQL" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/mysql.svg"></code>
 </p>
 
+<img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=vrajp3301&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
 
 
 
